@@ -1,0 +1,46 @@
+{
+  "name": "zz_geek",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "vue-cli-service serve --open --project-mode dev",
+    "test": "vue-cli-service serve --open --project-mode test",
+    "pro": "vue-cli-service serve --open --project-mode pro",
+    "pre": "vue-cli-service serve --open --project-mode pre",
+    "build:dev": "vue-cli-service build --project-mode dev",
+    "build:test": "vue-cli-service build --project-mode test",
+    "build:pro": "vue-cli-service build --modern --project-mode pro",
+    "build:pre": "vue-cli-service build --project-mode pre",
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "@jaames/iro": "^5.2.3",
+    "axios": "^0.19.2",
+    "babel-plugin-import": "^1.13.0",
+    "core-js": "^3.7.0",
+    "image-webpack-loader": "^6.0.0",
+    "postcss-px2rem": "^0.3.0",
+    "sha1": "^1.1.1",
+    "style-vw-loader": "^1.0.2",
+    "svg-sprite-loader": "^4.2.1",
+    "swiper": "^6.3.5",
+    "vant": "^2.6.0",
+    "vue": "^2.6.11",
+    "vue-awesome-swiper": "^4.1.1",
+    "vue-infinite-scroll": "^2.0.2",
+    "vue-router": "^3.1.5",
+    "vuex": "^3.1.2",
+    "vuex-persistedstate": "^4.0.0-beta.1",
+    "yarn": "^1.22.4"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.2.0",
+    "@vue/cli-plugin-router": "~4.2.0",
+    "@vue/cli-plugin-vuex": "~4.2.0",
+    "@vue/cli-service": "~4.2.0",
+    "sass": "^1.25.0",
+    "sass-loader": "^8.0.2",
+    "vue-template-compiler": "^2.6.11"
+  }
+}

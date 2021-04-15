@@ -1,0 +1,29 @@
+[
+  {
+    "templateId": 3,
+    "boothId": "PHOTOBOOTH_ONE_426",
+    "templateName": "3.0",
+    "iconImageUrl": "zepeto/activity/photo/template/1582013307523.png",
+    "backImageUrl": "",
+    "frontImageUrl": "",
+    "createTime": "2020-02-18 16:08:22"
+  },
+  {
+    "templateId": 2,
+    "boothId": "PHOTOBOOTH_ONE_425",
+    "templateName": "2.0",
+    "iconImageUrl": "zepeto/activity/photo/template/1582013307599.png",
+    "backImageUrl": "zepeto/activity/photo/template/1582013309926.png",
+    "frontImageUrl": "zepeto/activity/photo/template/1582013307544.png",
+    "createTime": "2020-02-18 16:08:21"
+  },
+  {
+    "templateId": 1,
+    "boothId": "PHOTOBOOTH_ONE_424",
+    "templateName": "1.0",
+    "iconImageUrl": "zepeto/activity/photo/template/1582013301567.png",
+    "backImageUrl": "zepeto/activity/photo/template/1582013309926.png",
+    "frontImageUrl": "zepeto/activity/photo/template/1582013302254.png",
+    "createTime": "2020-02-18 16:08:20"
+  }
+]
